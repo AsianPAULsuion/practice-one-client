@@ -29,5 +29,9 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:3001"
+  "proxy": "http://localhost:3001",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AsianPAULsuion/practice_app.git"
+  }
 }
