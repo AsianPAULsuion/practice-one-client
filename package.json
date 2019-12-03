@@ -32,6 +32,6 @@
   "proxy": "http://localhost:3001",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AsianPAULsuion/practice_app.git"
+    "url": "https://github.com/AsianPAULsuion/practice-one-client.git"
   }
 }
